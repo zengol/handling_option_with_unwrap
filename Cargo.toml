@@ -1,0 +1,6 @@
+[package]
+name = "other_way_of_handling_option"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
